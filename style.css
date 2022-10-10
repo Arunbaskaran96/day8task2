@@ -1,0 +1,78 @@
+.main{
+    display: flex;
+    justify-content: center;
+}
+
+.main1{
+    font-size: 50px;
+}
+.font{
+    font-size: 65px;
+    margin-top: 30px;
+}
+
+.font1{
+    font-size: 30px;
+    margin-top: 10px;
+}
+.main2{
+    text-align: center;
+    background-color: orange;
+
+}
+.con2-1{
+    margin-bottom: 0px;
+}
+.main3{
+    text-align: center;
+    background-color: aqua;
+}
+.main4{
+    text-align: center;
+}
+.font2{
+    font-size: 30px;
+    padding-top: 10px;
+}
+.main4{
+    text-align: center;
+    background-color: red;
+    margin-top: 20px;
+}
+
+
+.main5{
+    text-align: center;
+    background-color: aqua;
+}
+.main6{
+    text-align: center;
+    background-color: orange;
+    margin-top: 20px;
+}
+.main7{
+    text-align: center;
+    background-color: red;
+    margin-top: 20px;
+}
+.main8{
+    text-align: center;
+    background-color: aqua;
+}
+.main9{
+    text-align: center;
+    background-color: orange;
+    margin-top: 20px;
+}
+.main10{
+    text-align: center;
+    margin-top: 20px;
+    padding-top: 20px;
+}
+body{
+    background-color: gray;
+}
+
+.smallbox{
+    margin-top: 20px;
+}
